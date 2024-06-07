@@ -55,3 +55,7 @@ Cada linha mostra um inteiro da lista e seu equivalente em binário.
 --- 
 
 Lembre-se de substituir as etapas de instalação e a descrição do programa, se necessário, para refletir com precisão o funcionamento do seu projeto.
+
+## Licença
+
+Este projeto é distribuído sob os termos da [GNU General Public License](LICENSE). Você pode encontrar uma cópia da licença neste repositório. Ao usar este software, você concorda com os termos da GNU GPL.
